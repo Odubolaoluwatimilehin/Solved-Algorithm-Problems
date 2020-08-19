@@ -10,7 +10,3 @@ function solution(A){
 }
 
 
-
-
-
-console.log(solution([5,5,5]));

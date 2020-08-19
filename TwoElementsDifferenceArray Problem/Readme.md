@@ -1,3 +1,7 @@
+## Element Difference
+
+### Returns true if A contains at least two elements which differ by 1.
+
 Write a function
 function solution(A)
 that given an array A of N integers, returns true if A contains at least two elements which differ by 1, and false otherwise.

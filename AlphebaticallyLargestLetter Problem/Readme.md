@@ -1,3 +1,7 @@
+## Alphebatically largest letter
+
+### Find the alphebatically largest letter that occurs in both lowercase and uppercase.
+
 We are given a string S consisting of N letters. We want to find the alphebatically largest letter that occurs in both lowercase and uppercase in S, or decide that there are no such letter.
 
 Note: One letter is alphebatically larger than the another if it occurs later in English alphebatical order. For example, "E" is alphebatically larger than "B".

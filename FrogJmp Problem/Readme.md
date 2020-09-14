@@ -27,3 +27,10 @@ Write an efficient algorithm for the following assumptions:
 
 X, Y and D are integers within the range [1..1,000,000,000];
 X ≤ Y.
+
+
+
+### Screenshot of result of solution performance provided by me.
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/FrogJmp%20Problem/Screenshot%20from%202020-05-23%2022-49-04.png?raw=true)
+

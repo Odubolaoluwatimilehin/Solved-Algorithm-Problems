@@ -39,3 +39,13 @@ Assume that:
 N and K are integers within the range [0..100];
 each element of array A is an integer within the range [−1,000..1,000].
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
+
+
+
+
+
+### Screenshot of result of solution performance provided by me.
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/CyclicRotation%20Problem/Screenshot%20from%202020-05-15%2022-10-32.png?raw=true)
+
+

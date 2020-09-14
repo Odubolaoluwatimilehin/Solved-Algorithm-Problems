@@ -21,4 +21,6 @@ N is an integer within the range [1..2,147,483,647].
 
 
 
+### Screenshot of result of solution performance provided by me.
+
 ![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/BinaryGap%20Problem/Screenshot%20from%202020-05-15%2019-36-45.png?raw=true)

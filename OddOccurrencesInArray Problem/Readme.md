@@ -19,3 +19,10 @@ Write an efficient algorithm for the following assumptions:
     • N is an odd integer within the range [1..1,000,000];
     • each element of array A is an integer within the range [1..1,000,000,000];
     • all but one of the values in A occur an even number of times.
+    
+   
+   
+### Screenshot of result of solution performance provided by me.
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/OddOccurrencesInArray%20Problem/Screenshot%20from%202020-05-17%2019-14-57.png?raw=true)
+

@@ -43,3 +43,19 @@ Write an efficient algorithm for the following assumptions:
 
 N is an integer within the range [2..100,000];
 each element of array A is an integer within the range [−1,000..1,000].
+
+
+### Screenshot of result of solution performance provided by me.
+
+#### Solution correct but not efficient 
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/TapeEquilibrium%20Problem/Screenshot%20from%202020-08-09%2002-22-52.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/TapeEquilibrium%20Problem/Screenshot%20from%202020-08-09%2002-27-29.png?raw=true)
+
+
+#### Solution correct and performance improved 
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/TapeEquilibrium%20Problem/Screenshot%20from%202020-08-09%2002-26-01.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/TapeEquilibrium%20Problem/Screenshot%20from%202020-08-09%2002-27-15.png?raw=true)
+

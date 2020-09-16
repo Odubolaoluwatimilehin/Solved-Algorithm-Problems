@@ -51,13 +51,13 @@ each element of array A is an integer within the range [1..X].
 
 ### Screenshot of result of solution performance provided by me.
 
-solution not totally correct
+#### Solution not totally correct
 ![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/FrogRiverOne%20Problem/Screenshot%20from%202020-08-09%2019-39-50.png?raw=true)
 
 ![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/FrogRiverOne%20Problem/Screenshot%20from%202020-08-09%2019-39-56.png?raw=true)
 
 
-solution correct and performance improved 
+#### Solution correct and performance improved 
 
 ![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/FrogRiverOne%20Problem/Screenshot%20from%202020-08-09%2019-40-20.png?raw=true)
 

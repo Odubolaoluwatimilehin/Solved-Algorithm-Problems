@@ -1,4 +1,4 @@
-# Solved-Algorithims-Exercise
+# Solve-Algorithim
 
 This project contains a collection of algorithm and data structure questions I've been able to solve JavaScript.
 

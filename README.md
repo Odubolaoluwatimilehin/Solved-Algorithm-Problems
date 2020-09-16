@@ -1,6 +1,6 @@
 # Solve-Algorithim
 
-This project contains a collection of algorithm and data structure questions I've been able to solve JavaScript.
+This project contains a collection of algorithm and data structure questions I provided solution to using JavaScript Language.
 
 My solution to coding exercise, codility lessons and algo questions.
 

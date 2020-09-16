@@ -53,3 +53,20 @@ Write an efficient algorithm for the following assumptions:
 
 N and M are integers within the range [1..100,000];
 each element of array A is an integer within the range [1..N + 1].
+
+
+### Screenshot of result of solution performance provided by me.
+
+#### Solution correct but not efficent
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/MaxCounters%20Problem/Screenshot%20from%202020-08-10%2011-01-01.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/MaxCounters%20Problem/Screenshot%20from%202020-08-10%2011-01-12.png?raw=true)
+
+
+#### Solution correct and performance improved 
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/MaxCounters%20Problem/Screenshot%20from%202020-08-12%2000-55-27.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/MaxCounters%20Problem/Screenshot%20from%202020-08-12%2000-55-35.png?raw=true)
+
+

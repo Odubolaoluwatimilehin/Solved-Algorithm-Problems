@@ -57,7 +57,7 @@ each element of array A is an integer within the range [1..N + 1].
 
 ### Screenshot of result of solution performance provided by me.
 
-#### Solution correct but not efficent
+#### Solution correct but not efficient
 ![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/MaxCounters%20Problem/Screenshot%20from%202020-08-10%2011-01-01.png?raw=true)
 
 ![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/MaxCounters%20Problem/Screenshot%20from%202020-08-10%2011-01-12.png?raw=true)

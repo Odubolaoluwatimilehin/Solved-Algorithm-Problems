@@ -4,7 +4,7 @@ This project contains a collection of algorithm and data structure questions I'v
 
 My solution to coding exercise, codility lessons and algo questions.
 
-### Below is the listed algorithim problem solved 
+#### Listed algorithim problem solved 
 
 + [OddOccurrencesInArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/OddOccurrencesInArray%20Problem)
 + [FrogRiverOne Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/FrogRiverOne%20Problem)

@@ -6,8 +6,8 @@ My solution to coding exercise, codility lessons and algo questions.
 
 #### Listed algorithim problem solved 
 
-+ [OddOccurrencesInArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/OddOccurrencesInArray%20Problem)
 + [FrogRiverOne Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/FrogRiverOne%20Problem)
++ [OddOccurrencesInArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/OddOccurrencesInArray%20Problem)
 + [MaxCounters Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/MaxCounters%20Problem)
 + [BinaryGap Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/BinaryGap%20Problem)
 + [FrogJmp Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/FrogJmp%20Problem)

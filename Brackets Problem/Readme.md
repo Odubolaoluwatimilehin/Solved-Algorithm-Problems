@@ -22,3 +22,10 @@ Write an efficient algorithm for the following assumptions:
 
 N is an integer within the range [0..200,000];
 string S consists only of the following characters: "(", "{", "[", "]", "}" and/or ")".
+
+
+### Screenshot of result of solution performance provided by me.
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/Brackets%20Problem/Screenshot%20from%202020-10-24%2017-22-21.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/Brackets%20Problem/Screenshot%20from%202020-10-24%2017-22-30.png?raw=true)

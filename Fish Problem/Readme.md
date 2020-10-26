@@ -40,3 +40,11 @@ N is an integer within the range [1..100,000];
 each element of array A is an integer within the range [0..1,000,000,000];
 each element of array B is an integer that can have one of the following values: 0, 1;
 the elements of A are all distinct.
+
+
+
+### Screenshot of result of solution performance provided by me.
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/Fish%20Problem/Screenshot%20from%202020-10-26%2002-18-25.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/Fish%20Problem/Screenshot%20from%202020-10-26%2002-18-36.png?raw=true)

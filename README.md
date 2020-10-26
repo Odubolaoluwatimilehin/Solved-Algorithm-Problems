@@ -17,6 +17,8 @@ My solution to coding exercise, codility lessons and algo questions.
 + [TwoElementsDifferenceArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/TwoElementsDifferenceArray%20Problem)
 + [AlphebaticallyLargestLetter Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/AlphebaticallyLargestLetter%20Problem)
 + [Brackets Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Brackets%20Problem)
++ [Fish Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Fish%20Problem)
+
 
 Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.
 

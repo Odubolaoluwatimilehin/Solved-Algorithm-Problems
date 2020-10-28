@@ -1,5 +1,4 @@
 
-
 ## Nesting
 
 ### Determine whether a given string of parentheses (single type) is properly nested.
@@ -23,3 +22,9 @@ Write an efficient algorithm for the following assumptions:
 
 N is an integer within the range [0..1,000,000];
 string S consists only of the characters "(" and/or ")".
+
+### Screenshot of result of solution performance provided by me.
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/Nesting%20Problem/Screenshot%20from%202020-10-26%2016-45-11.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/Nesting%20Problem/Screenshot%20from%202020-10-26%2016-45-25.png?raw=true)

@@ -18,7 +18,7 @@ My solution to coding exercise, codility lessons and algo questions.
 + [AlphebaticallyLargestLetter Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/AlphebaticallyLargestLetter%20Problem)
 + [Brackets Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Brackets%20Problem)
 + [Fish Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Fish%20Problem)
-
++ [Nesting Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Nesting%20Problem)
 
 Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.
 

@@ -46,3 +46,9 @@ Write an efficient algorithm for the following assumptions:
 
 • N is an integer within the range [1..100,000];
 • each element of array A is an integer within the range [1..1,000,000,000].
+
+### Screenshot of result of solution performance provided by me.
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/PermCheck%20Problem/Screenshot%20from%202020-12-12%2023-03-43.png?raw=true)
+
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/PermCheck%20Problem/Screenshot%20from%202020-12-12%2023-03-50.png?raw=true)

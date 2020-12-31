@@ -20,6 +20,7 @@ My solution to coding exercise, codility lessons and algo questions.
 + [Fish Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Fish%20Problem)
 + [Nesting Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Nesting%20Problem)
 + [PermCheck Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/PermCheck%20Problem)
++ [SmallestNumber Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/SmallestNumber%20Problem)
 
 Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.
 

@@ -21,6 +21,8 @@ My solution to coding exercise, codility lessons and algo questions.
 + [Nesting Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Nesting%20Problem)
 + [PermCheck Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/PermCheck%20Problem)
 + [SmallestNumber Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/SmallestNumber%20Problem)
++ [Distinct Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Distinct%20Problem)
+
 
 Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.
 

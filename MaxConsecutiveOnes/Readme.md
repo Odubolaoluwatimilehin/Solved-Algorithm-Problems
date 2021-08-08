@@ -27,5 +27,5 @@ nums[i] is either 0 or 1.
 
 ```
 
-![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/blob/master/CyclicRotation%20Problem/Screenshot%20from%202020-05-15%2022-10-32.png?raw=true)
+![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/MaxConsecutiveOnes/Screenshot%20from%202021-08-08%2002-27-38.png)
 

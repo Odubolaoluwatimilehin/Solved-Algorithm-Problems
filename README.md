@@ -24,8 +24,7 @@ My solution to coding exercise, codility lessons and algo questions.
 + [Distinct Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/Distinct%20Problem)
 + [ReverseSentence Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/ReverseSentence%20Problem)
 + [FirstUniqueChar Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/FirstUniqueChar%20Problem)
-
-
++ [MaxConsecutiveOnes Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/MaxConsecutiveOnes)
 
 Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.
 

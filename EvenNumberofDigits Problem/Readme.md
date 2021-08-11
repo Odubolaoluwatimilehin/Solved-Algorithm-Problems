@@ -28,4 +28,4 @@ Only 1771 contains an even number of digits.
 1 <= nums[i] <= 10^5
 ```
 
-![A test image](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/blob/master/MaxConsecutiveOnes/Screenshot%20from%202021-08-08%2002-27-38.png)
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/EvenNumberofDigits%20Problem/Screenshot%20from%202021-08-09%2000-43-15.png)

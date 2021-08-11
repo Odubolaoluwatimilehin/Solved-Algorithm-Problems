@@ -4,3 +4,7 @@ var sortedSquares = function(nums) {
     
     return squared.sort((a,b) => a -b );
 };
+
+
+
+console.log(sortedSquares()))

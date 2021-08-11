@@ -26,6 +26,7 @@ My solution to coding exercise, codility lessons and algo questions.
 + [FirstUniqueChar Problem](https://github.com/Odubolaoluwatimilehin/Solve-Algorithim/tree/master/FirstUniqueChar%20Problem)
 + [MaxConsecutiveOnes Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/MaxConsecutiveOnes)
 + [SquaresSortedArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/SquaresSortedArray%20Problem)
++ [EvenNumberofDigits Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/EvenNumberofDigits%20Problem)
 
 
 Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.

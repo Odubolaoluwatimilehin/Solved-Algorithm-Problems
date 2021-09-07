@@ -32,4 +32,4 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
  
 ```
 
-![A test image]()
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/MergeSortedArray%20Problem/Screenshot%202021-09-08%20at%2012.00.06%20AM.png)

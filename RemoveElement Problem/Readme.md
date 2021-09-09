@@ -34,4 +34,4 @@ Constraints:
     0 <= val <= 100
 ```
 
-![A test image]()
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/RemoveElement%20Problem/Screenshot%202021-09-09%20at%209.47.00%20PM.png)

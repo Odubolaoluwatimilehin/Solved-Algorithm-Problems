@@ -33,4 +33,4 @@ Constraints:
     nums is sorted in non-decreasing order.
 ```
 
-![A test image]()
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/RemoveDuplicatesfromSorted%20ArrayProblem/Screenshot%202021-09-10%20at%201.03.53%20PM.png)

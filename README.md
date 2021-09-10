@@ -29,6 +29,7 @@ My solution to coding exercise, codility lessons and algo questions.
 + [EvenNumberofDigits Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/EvenNumberofDigits%20Problem)
 + [MergeSortedArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/MergeSortedArray%20Problem)
 + [RemoveElement Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/RemoveElement%20Problem)
++ [RemoveDuplicatesfromSortedArray Problem]()
 
 Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.
 

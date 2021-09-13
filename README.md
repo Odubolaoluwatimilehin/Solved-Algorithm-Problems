@@ -1,10 +1,10 @@
-# Solve-Algorithim
+# Solve-Algorithm
 
-This project contains a collection of algorithm and data structure questions I provided solution to using JavaScript Language.
+This project contains a collection of algorithm and data structure questions I provided solutions to using JavaScript Language.
 
-My solution to coding exercise, codility lessons and algo questions.
+My solution to coding exercise, Codility lessons, LeetCode, and Random algo questions.
 
-#### Listed algorithim problem solved 
+#### Listed algorithm problem solved 
 
 + [FrogRiverOne Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/FrogRiverOne%20Problem)
 + [OddOccurrencesInArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithims-Exercise/tree/master/OddOccurrencesInArray%20Problem)
@@ -30,10 +30,8 @@ My solution to coding exercise, codility lessons and algo questions.
 + [MergeSortedArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/MergeSortedArray%20Problem)
 + [RemoveElement Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/RemoveElement%20Problem)
 + [RemoveDuplicatesfromSortedArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/RemoveDuplicatesfromSorted%20ArrayProblem)
-+ [CheckIfNandItsDoubleExist Problem]()
++ [CheckIfNandItsDoubleExist Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/CheckIfNandItsDoubleExist%20Problem)
 
-Feel free to send a PR with modifications, corrections and ideas on how to improve on the time and space complexity.
+Feel free to send a PR with modifications, corrections, and ideas on how to improve on the time and space complexity.
 
 Enjoy!!! :)
-
-

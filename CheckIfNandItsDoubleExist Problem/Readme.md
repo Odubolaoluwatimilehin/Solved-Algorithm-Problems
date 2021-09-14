@@ -38,7 +38,7 @@ Constraints:
 ```
 
 Solution A (improved on)
-![A test image]()
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/CheckIfNandItsDoubleExist%20Problem/ScreenshotA.png)
 
 Solution B
-![A test image]()
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/CheckIfNandItsDoubleExist%20Problem/ScreenshotB.png)

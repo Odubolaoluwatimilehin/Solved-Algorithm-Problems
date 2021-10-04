@@ -32,6 +32,8 @@ My solution to coding exercise, Codility lessons, LeetCode, and Random algo ques
 + [RemoveDuplicatesfromSortedArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/RemoveDuplicatesfromSorted%20ArrayProblem)
 + [CheckIfNandItsDoubleExist Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/CheckIfNandItsDoubleExist%20Problem)
 + [ValidMountainArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/ValidMountainArray%20Problem)
++ [SplitStringSwap Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/SplitStringSwap%20Problem)
+
 
 Feel free to send a PR with modifications, corrections, and ideas on how to improve on the time and space complexity.
 

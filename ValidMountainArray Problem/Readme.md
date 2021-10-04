@@ -6,7 +6,7 @@
 ### Recall that arr is a mountain array if and only if:
 
 Problem illustration
-![illustration]()
+![illustration](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/ValidMountainArray%20Problem/Illustration.png)
 
 ```
     arr.length >= 3
@@ -41,4 +41,4 @@ Solution A (improved on)
 ![A test image]()
 
 Solution B
-![A test image]()
+![A test image](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/blob/master/ValidMountainArray%20Problem/Solution%20B.png)

@@ -30,6 +30,11 @@ My solution to coding exercise, Codility lessons, LeetCode, and Random algo ques
 + [MergeSortedArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/MergeSortedArray%20Problem)
 + [RemoveElement Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/RemoveElement%20Problem)
 + [RemoveDuplicatesfromSortedArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/RemoveDuplicatesfromSorted%20ArrayProblem)
+
+
+Questions to look into ->  Longest Happy String. (https://walkccc.me/LeetCode/problems/1405/)
+Find N Unique Integers Sum up to Zero -> (https://tahanima.github.io/2021/05/31/editorial-series-leetcode-1304-find-n-unique-integers-sum-up-to-zero/)
+
 + [CheckIfNandItsDoubleExist Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/CheckIfNandItsDoubleExist%20Problem)
 + [ValidMountainArray Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/ValidMountainArray%20Problem)
 + [SplitStringSwap Problem](https://github.com/Odubolaoluwatimilehin/Solved-Algorithm-Problems/tree/master/SplitStringSwap%20Problem)
